@@ -2,8 +2,6 @@
 
 **Contributors:** Yasmine Chaker, Alexander Mueller, Tymur Tytarenko.
 
-[Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
-
 *The goal of our project is to show music preferences around the world and to offer a personalized experience to each user based on their music taste.* 
 
 📽 Screen cast [here](https://www.youtube.com/watch?v=uzzclIc422g)
@@ -47,7 +45,7 @@ Functions:
 
 While coming up with the idea we have encountered some projects already related to the world music map, this is one of them:
 
- Spotify and open-source platform CARTO have created the [“Musical Map of the World”](https://community.spotify.com/t5/App-Features/Spotify-s-NEW-Musical-Map-of-the-World-2-0/td-p/1519929). This creative visualization with an interactive map is making use of Spotify´s data from cities all over the world to give them their special “musical character”.
+Spotify and open-source platform CARTO have created the [“Musical Map of the World”](https://community.spotify.com/t5/App-Features/Spotify-s-NEW-Musical-Map-of-the-World-2-0/td-p/1519929). This creative visualization with an interactive map is making use of Spotify´s data from cities all over the world to give them their special “musical character”.
 
 The Musical Map of the World has music aggregation in world map, but we cannot see the preferences which change over time and we cannot visualize the user's own preferences.
 
