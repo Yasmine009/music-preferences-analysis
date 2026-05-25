@@ -1,4 +1,5 @@
 # Data Visualization (COM-480) Project
+<img width="1440" height="747" alt="Capture d’écran 2026-05-25 à 3 31 22 PM" src="https://github.com/user-attachments/assets/320b655b-0db9-492d-8bb9-ca24cca14d76" />
 
 **Contributors:** Yasmine Chaker, Alexander Mueller, Tymur Tytarenko.
 
