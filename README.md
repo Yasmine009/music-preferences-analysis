@@ -4,11 +4,11 @@
 
 *The goal of our project is to show music preferences around the world and to offer a personalized experience to each user based on their music taste.* 
 
-📽 Screen cast [here](https://www.youtube.com/watch?v=uzzclIc422g)
+📽 [Screen cast](https://www.youtube.com/watch?v=uzzclIc422g)
 
-🔗 Website [here](https://soundsculptors.netlify.app/)
+🔗 [Website](https://soundsculptors.netlify.app/)
 
-📕 Process book [here](process_book.pdf)
+📕 [Process book](process_book.pdf)
 
 ### Dataset
 
