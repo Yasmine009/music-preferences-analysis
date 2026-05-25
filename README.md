@@ -1,18 +1,16 @@
-# Project of Data Visualization (COM-480)
+# Data Visualization (COM-480) Project
 
-| Student's name | SCIPER |
-| -------------- | ------ |
-| Yasmine Chaker | 311675 |
-| Alexander Mueller | 312276 |
-| Tymur Tytarenko | 375184 |
+**Contributors:** Yasmine Chaker, Alexander Mueller, Tymur Tytarenko.
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
-## Milestone 1 (29th March, 5pm)
+*The goal of our project is to show music preferences around the world and to offer a personalized experience to each user based on their music taste.* 
 
-**10% of the final grade**
+📽 Screen cast [here](https://www.youtube.com/watch?v=uzzclIc422g)
 
-The goal of our project is to show music preferences around the world and to offer a personalized experience to each user based on their music taste. 
+🔗 Website [here](https://soundsculptors.netlify.app/)
+
+📕 Process book [here](process_book.pdf)
 
 ### Dataset
 
@@ -20,7 +18,7 @@ In our project, we are using two different datasets.
 The **first** one is this fixed dataset from Kaggle: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023.
 The **second** one is from [Spotify's API](https://developer.spotify.com/documentation/web-api). This gives access to things like artist popularity per country, song characteristics, and song popularity. 
 
-### Problematic
+### Overview
 
 In our visualization, we are trying to show global music preferences, emphasizing the diversity within and between countries, how countries' music preferences are related and change over time. Adding to this comprehensive visualization, there will also be a feature that personalizes the user experience by incorporating individuals' music preferences into the world map, providing insights into how their personal tastes fit within the broader context of worldwide music preferences.
 
@@ -59,30 +57,6 @@ Our approach is original because we want to look at how different countries list
 
 We take this [visualization](https://public.tableau.com/views/MakeoverMonday-Week44-BankHolidays/BankHolidays?%3AshowVizHome=no) as one source of inspiration for our website.
 
-## Milestone 2 (26th April, 5pm)
-
-**10% of the final grade**
-
-You can find the report describing the project goals [here](milestone2.pdf).
-
-You can access the first version of our website following these steps:
-- run `pip install -r requirements.txt`
-- run `flask run`
-- open another terminal window
-- navigate to "frontend" document
-- run `npm install`
-- run `npm run dev`
-
-
-
-## Milestone 3 (31st May, 5pm)
-
-🔗 Website [here](https://soundsculptors.netlify.app/)
-
-📕 Process book [here](process_book.pdf)
-
-📽 Screen cast [here](https://www.youtube.com/watch?v=uzzclIc422g)
-
 ### Backend 
 The backend project is a Python-based application designed to directly communicate with the [Spotify API](https://developer.spotify.com/documentation). It fetches music-related data, computes various statistics, and aggregates the results to provide insights, which in turn is fed into the front end. 
 
@@ -102,6 +76,7 @@ The backend project is a Python-based application designed to directly communica
 
 ### Frontend
 The frontend is a Svelte based static website. It fetches results from our python backend. 
+
 #### Installation
 > Requires Node.js
 
@@ -109,12 +84,4 @@ Run ```npm install```
 
 Run ```npm run dev```
 
-### Contributing
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-## Late policy
-
-- < 24h: 80% of the grade for the milestone
-- < 48h: 70% of the grade for the milestone
 
